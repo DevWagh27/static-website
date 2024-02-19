@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  name: azure-dev0vm
 
 variables:
   phpVersion: 7.2
