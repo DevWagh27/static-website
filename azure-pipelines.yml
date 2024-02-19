@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: azure-dev0vm
+  name: self-hosted
 
 variables:
   phpVersion: 7.2
